@@ -1,3 +1,4 @@
+package command_pantern;
 
 public class CloseCommand implements Command{
 

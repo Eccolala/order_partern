@@ -1,3 +1,5 @@
+package command_pantern;
+
 //这里是电视机
 public class Receiver {
     public Receiver() {
