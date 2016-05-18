@@ -1,4 +1,4 @@
-package command_pantern;
+package command_pattern;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package command_pantern;
+package command_pattern;
 
 public class OpenCommand implements Command{
 

@@ -1,4 +1,4 @@
-package command_pantern;
+package command_pattern;
 
 //这里是电视机
 public class Receiver {

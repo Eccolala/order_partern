@@ -1,4 +1,4 @@
-package command_pantern;
+package command_pattern;
 
 public class Client {
     public static void main(String[] args){
